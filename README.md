@@ -1,1 +1,1 @@
-# edu_supplychain
+# fairedu_supplychain
